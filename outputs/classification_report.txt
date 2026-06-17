@@ -1,0 +1,11 @@
+Classification report для модели: Random Forest
+====================================================
+
+              precision    recall  f1-score   support
+
+ Без покупки       0.96      0.88      0.92      2059
+  С покупкой       0.55      0.83      0.66       382
+
+    accuracy                           0.87      2441
+   macro avg       0.76      0.85      0.79      2441
+weighted avg       0.90      0.87      0.88      2441
